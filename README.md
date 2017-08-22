@@ -5,5 +5,6 @@ Ambiente de desenvolvimento e operação
 
 Aula2_20170822. Inserir 3 artistas prefereidos:
 Neil Gaiman
-John Ronald Reuel Tolkien
+John R R Tolkien
 Dave Grohl
+Lou Reed
